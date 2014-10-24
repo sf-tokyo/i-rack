@@ -5,3 +5,4 @@ i-rack
 ## 必要なソフトウェア
 
 * FuelPHP
+* CouchDB
