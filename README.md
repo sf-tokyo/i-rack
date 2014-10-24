@@ -6,3 +6,6 @@ i-rack
 
 * FuelPHP
 * CouchDB
+
+## 補足
+* このリポジトリはテスト用です
